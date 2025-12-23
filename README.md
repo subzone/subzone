@@ -48,12 +48,12 @@ I am a passionate **DevOps Engineer** and **Head of Cloud Architecture** with a 
 
 <br />
 
-## 📂 Featured Projects
+## � Interesting Links
 
-| Project | Description | Tech |
+| Website | Description | Status |
 | :--- | :--- | :--- |
-| **[Project Name 1](https://github.com/subzone/project1)** | Brief description of what this project does and the problem it solves. | ![Python](https://img.shields.io/badge/-Python-black) |
-| **[Project Name 2](https://github.com/subzone/project2)** | Brief description of what this project does and the problem it solves. | ![Docker](https://img.shields.io/badge/-Docker-black) |
+| **[ProMenu.click](https://promenu.click)** | The main website for ProMenu. | ![Live](https://img.shields.io/badge/Status-Live-success) |
+| **[Demo.ProMenu.click](https://demo.promenu.click)** | Try out the demo version of ProMenu. | ![Demo](https://img.shields.io/badge/Status-Demo-blue) |
 
 <br />
 
