@@ -1,38 +1,62 @@
-### Hi there 👋
+﻿<div align="center">
+  <h1>Hi there, I'm Milenko! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h3>🚀 Head of Cloud Architecture | DevOps Enthusiast | Tech Explorer</h3>
+  
+  <p>
+    <em>Building scalable, reliable, and secure cloud infrastructure.</em>
+  </p>
 
-I'm Milenko, a passionate DevOps, Head of Cloud Architecture and technology enthusiast.
+  <a href="https://www.linkedin.com/in/subzone">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/milenkom81">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I’m looking to collaborate on [Projects or Areas of Interest]
-- 🤔 I’m looking for help with [Any Specific Help You Need]
-- 💬 Ask me about [Topics You Are Knowledgeable About]
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+<br />
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+I am a passionate **DevOps Engineer** and **Head of Cloud Architecture** with a deep love for automation, cloud-native technologies, and building resilient systems.
 
-## 📈 GitHub Stats
+- 🔭 I’m currently working on **Cloud Infrastructure Optimization**
+- 🌱 I’m currently exploring **Advanced Kubernetes Patterns & AI in DevOps**
+- 💬 Ask me about **AWS, Azure, Docker, Kubernetes, Terraform, CI/CD**
+- ⚡ Fun fact: **I automate everything, even my coffee machine!**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=subzone&show_icons=true&theme=radical)
+<br />
 
-## 📂 Projects
+## 🛠️ Tech Stack
 
-### [Project 1](https://github.com/yourusername/project1)
-Description of project 1.
+<div align="center">
 
-### [Project 2](https://github.com/yourusername/project2)
-Description of project 2.
+| **Cloud & DevOps** | **Languages** | **Tools & Frameworks** |
+|:---:|:---:|:---:|
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
 
-## 📫 Connect with me
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/subzone)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/milenkom81)
+<br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subzone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subzone&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
+
+<br />
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Project Name 1](https://github.com/subzone/project1)** | Brief description of what this project does and the problem it solves. | ![Python](https://img.shields.io/badge/-Python-black) |
+| **[Project Name 2](https://github.com/subzone/project2)** | Brief description of what this project does and the problem it solves. | ![Docker](https://img.shields.io/badge/-Docker-black) |
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=subzone&label=Profile%20Views&color=0e75b6&style=flat" alt="subzone" />
+</div>
